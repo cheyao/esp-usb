@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "esp-usb-lib")(type "KiCad")(uri "${KIPRJMOD}/esp-usb-lib.pretty")(options "")(descr ""))
+)
