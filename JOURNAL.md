@@ -45,3 +45,16 @@ Schematic is here, prettied it up :p
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/673a860c1b66dca19a258d45d84fec9f5fc9b2e5_image.png)
 
 Now I'm asking for a reddit review :yay: https://www.reddit.com/r/PrintedCircuitBoard/comments/1kptk6i/review_request_tiny_usb_esp32_wifi_board_first/
+
+Okaaaaaaaaaaaaaaay, so i guess I'm onto v3...
+
+And v3 is done!!!!
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/b19e3f3b8a28b3babceeb8b243d15109274d887f_image.png)
+
+Anded a lot of changes :D
+
+Still some small fixes...
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/0a95e10848faf162e861499aae798dcaf59fbabb_image.png)
+
