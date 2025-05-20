@@ -38,7 +38,7 @@ Start of v2!!! Quite nice :D
 
 After a whole afternoon of routing, I'm almost done!!! I've also switched to a 4 layer board since it costs the same.
 
-![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/673a860c1b66dca19a258d45d84fec9f5fc9b2e5_image.png)
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/1d34798af5f7429257562ff5829b0e4cc3bed335_image.png)
 
 Schematic is here, prettied it up :p 
 
