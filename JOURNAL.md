@@ -9,7 +9,7 @@ created_at: "2024-05-17"
 
 TOTAL TIME: ~28.5h (Prob more w/ the time i spent at school reading docs...)
 
-## 17/05/25
+## 17/05/25 - Making v1 of the board!
 
 Just made the repo! Real excited for this project: It will be my first RF board!
 
@@ -47,7 +47,7 @@ Okay I've did some impedance calculation for the RF trace - Time spent: it has a
 
 -----------------
 
-## 18/05/25
+## 18/05/25 - Compleating v1 and start of v2
 
 Just made the board outline and worked a bit more on the schematic! It's going to be yubikey size atm. I hope that's enough place for all the traces :D
 
@@ -105,14 +105,14 @@ Okaaaaaaaaaaaaaaay, so i guess I'm onto v3... A redditor convinced me to do it
 
 -----------------
 
+## 19/05/25 - V3 and final cleanup!
+
 And v3 is done!!!! This is the cristalization of the experience gained from v1 and v2. Love the design this time, though I probably can do better in some places
 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/b19e3f3b8a28b3babceeb8b243d15109274d887f_image.png)
 - Time spent: 5h
 
 -----------------
-
-## 19/05/25
 
 Added some small fixes... It's really important to review your schematic after sleeping. Found a few traces that could be better routed.
 
