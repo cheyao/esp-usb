@@ -2,7 +2,7 @@
 title: "ESP USP"
 author: "Cyao"
 description: "Tiny esp32 usb dev board"
-created_at: "2024-05-15"
+created_at: "2024-05-17"
 ---
 
 # ESP-USB - Time spent: The esp32 dev board that goes straight into your USB port
