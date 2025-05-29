@@ -7,7 +7,7 @@ created_at: "2024-05-17"
 
 # ESP-USB - The esp32 dev board that goes straight into your USB port
 
-TOTAL TIME: ~28.5h (Prob more w/ the time i spent at school reading docs...)
+TOTAL TIME: ~29.5h (Prob more w/ the time i spent at school reading docs...)
 
 ## 17/05/25 - Making v1 of the board!
 
@@ -122,3 +122,10 @@ Added some small fixes... It's really important to review your schematic after s
 
 Okay ig I'm done? Time to submit!!!
 
+-----------------
+
+## 29/05/25
+
+Beefed up the readme :dinothumbsup: :p
+
+- Time spent: 1h
