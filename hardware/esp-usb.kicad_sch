@@ -3539,12 +3539,6 @@
 		(uuid "f6e92648-2708-433e-80a9-4125ea3e1c72")
 	)
 	(junction
-		(at 71.12 31.75)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0f689358-48b4-450b-bb8e-08f89d1cc209")
-	)
-	(junction
 		(at 160.02 78.74)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3838,16 +3832,6 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 31.75) (xy 71.12 41.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "13ffdab9-3e39-4a94-b60d-efc43d11c3dc")
-	)
-	(wire
-		(pts
 			(xy 58.42 152.4) (xy 71.12 152.4)
 		)
 		(stroke
@@ -4025,16 +4009,6 @@
 			(type default)
 		)
 		(uuid "391d41f7-11b0-4cea-8552-940b01e6afc9")
-	)
-	(wire
-		(pts
-			(xy 71.12 49.53) (xy 76.2 49.53)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3e5cf7b3-ac18-49c7-a687-4b0c5ae3b542")
 	)
 	(wire
 		(pts
@@ -4298,16 +4272,6 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 31.75) (xy 71.12 31.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "70f5d298-aa2a-410b-a15a-92975cea3bcd")
-	)
-	(wire
-		(pts
 			(xy 224.79 80.01) (xy 227.33 80.01)
 		)
 		(stroke
@@ -4385,16 +4349,6 @@
 			(type default)
 		)
 		(uuid "7b33d66f-55b6-4f1d-a2fb-d85bba15dd2a")
-	)
-	(wire
-		(pts
-			(xy 63.5 57.15) (xy 63.5 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7bee51e5-5ad6-4042-bfb6-27c404ffa416")
 	)
 	(wire
 		(pts
@@ -4478,7 +4432,7 @@
 	)
 	(wire
 		(pts
-			(xy 72.39 31.75) (xy 71.12 31.75)
+			(xy 50.8 31.75) (xy 72.39 31.75)
 		)
 		(stroke
 			(width 0)
@@ -4998,16 +4952,6 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 46.99) (xy 76.2 46.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f9bf86d6-3e74-4820-937e-050e5db6f4f8")
-	)
-	(wire
-		(pts
 			(xy 132.08 107.95) (xy 142.24 107.95)
 		)
 		(stroke
@@ -5196,16 +5140,6 @@
 		)
 		(uuid "974d4776-3d5a-44a2-aac7-d12f5c5c70c8")
 	)
-	(label "D-"
-		(at 76.2 49.53 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "99411705-e2a7-4233-ae35-659d14e8dac6")
-	)
 	(label "D+"
 		(at 54.61 46.99 180)
 		(effects
@@ -5225,16 +5159,6 @@
 			(justify left bottom)
 		)
 		(uuid "b1f226ad-3ea8-4a35-9691-256d311faf4e")
-	)
-	(label "D+"
-		(at 76.2 46.99 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "b2409646-4102-474a-94fa-f7f0e3cedaaa")
 	)
 	(label "GPIO4"
 		(at 198.12 95.25 180)
@@ -7001,72 +6925,6 @@
 			(project ""
 				(path "/e4e8ee11-8dc8-47f9-8b1c-f8c497eaffab"
 					(reference "#PWR011")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 63.5 58.42 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "853e116c-a4db-4a41-9841-cbdc935762bb")
-		(property "Reference" "#PWR021"
-			(at 63.5 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 63.5 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 63.5 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 63.5 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 63.5 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "29ea5d3b-cfce-4316-ab44-9cc501a9e79b")
-		)
-		(instances
-			(project "esp-usb"
-				(path "/e4e8ee11-8dc8-47f9-8b1c-f8c497eaffab"
-					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -8909,89 +8767,6 @@
 			(project ""
 				(path "/e4e8ee11-8dc8-47f9-8b1c-f8c497eaffab"
 					(reference "L1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:USB_A")
-		(at 63.5 46.99 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f3c2e183-3ebb-498b-b592-32ef9160282b")
-		(property "Reference" "J4"
-			(at 63.5 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "USB_A"
-			(at 63.5 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "esp-usb-lib:USBPCB"
-			(at 67.31 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 67.31 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "USB Type A connector"
-			(at 63.5 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part #" ""
-			(at 63.5 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "4"
-			(uuid "6a4d287e-ba03-439b-9fd2-c27cdd2cecd5")
-		)
-		(pin "1"
-			(uuid "a42dd98a-2d4b-4bde-b971-153d8ad69765")
-		)
-		(pin "3"
-			(uuid "72de8035-bb77-4d67-8b35-4cd03db117d3")
-		)
-		(pin "2"
-			(uuid "7827a5a7-1e4c-4ef9-81a7-1537109f39a0")
-		)
-		(instances
-			(project "esp-usb"
-				(path "/e4e8ee11-8dc8-47f9-8b1c-f8c497eaffab"
-					(reference "J4")
 					(unit 1)
 				)
 			)
