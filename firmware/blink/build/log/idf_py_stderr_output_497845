@@ -1,0 +1,21 @@
+fatal: detected dubious ownership in repository at '/opt/esp-idf'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /opt/esp-idf
+CMake Deprecation Warning at /opt/esp-idf/components/mbedtls/mbedtls/CMakeLists.txt:21 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+
+
+fatal: detected dubious ownership in repository at '/opt/esp-idf'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /opt/esp-idf
+fatal: detected dubious ownership in repository at '/opt/esp-idf/components/openthread/openthread'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /opt/esp-idf/components/openthread/openthread

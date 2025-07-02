@@ -1,0 +1,13 @@
+[0;33m--- esp-idf-monitor 1.6.2 on /dev/ttyACM0 115200[0m
+[0;33m--- Quit: Ctrl+] | Menu: Ctrl+T | Help: Ctrl+T followed by Ctrl+H[0m
+[0;33m--- 0x40382856: rv_utils_wait_for_intr at /opt/esp-idf/components/riscv/include/riscv/rv_utils.h:62
+---  (inlined by) esp_cpu_wait_for_intr at /opt/esp-idf/components/esp_hw_support/cpu.c:62
+[0m
+[1;31m--- Error: device reports readiness to read but returned no data (device disconnected or multiple access on port?)[0m
+[0;33m--- Waiting for the device to reconnect[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m[0m
+[0;33m--- Warning: Writing to serial is timing out. Please make sure that your application supports an interactive console and that you have picked the correct console for serial communication.[0m
+[0;33m--- Warning: Writing to serial is timing out. Please make sure that your application supports an interactive console and that you have picked the correct console for serial communication.[0m
+[0;33m--- Warning: Writing to serial is timing out. Please make sure that your application supports an interactive console and that you have picked the correct console for serial communication.[0m
+[0;33m--- Warning: Writing to serial is timing out. Please make sure that your application supports an interactive console and that you have picked the correct console for serial communication.[0m
+[0;33m--- Warning: Writing to serial is timing out. Please make sure that your application supports an interactive console and that you have picked the correct console for serial communication.[0m
+[0m

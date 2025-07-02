@@ -1,6 +1,6 @@
 # ESP USB - ESP32 in your pockets
 
-![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/581c97c7904b929b346521dac1195fcf45c66e19_image.png)
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/7454b2ca2981f1f1818077ea4e6c75ab948e7259_out.jpg)
 
 ## Description
 
@@ -36,9 +36,6 @@ This board needs to be 2.0mm thick in order to be sticked into a USB port.
 
 Licensed under Solderpad license, basically you can do anything but the board doesn't come with guarantee.
 
-### BOM
+## This is not suited for production yet
 
-| Item | Usage | Source | Price | Qty |
-| ---- | ----- | ------ | ----- | --- |
-| PCB w/ PCBA | It's the project... | some pcb fab | 149.16$ | 1 |
-
+I need to add some more decoupling caps & do more verification on the antenna

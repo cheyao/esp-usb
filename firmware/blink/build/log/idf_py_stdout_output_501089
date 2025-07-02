@@ -1,0 +1,17 @@
+[1/9] Building C object esp-idf/main/CMakeFiles/__idf_main.dir/blink_main.c.obj
+[2/9] Performing build step for 'bootloader'
+[1/1] cd /home/cyao/Developer/esp-usb/firmware/blink/build/bootloader/esp-idf/esptool_py && /home/cyao/.espressif/python_env/idf5.4_py3.13_env/bin/python /opt/esp-idf/components/partition_table/check_sizes.py --offset 0x8000 bootloader 0x0 /home/cyao/Developer/esp-usb/firmware/blink/build/bootloader/bootloader.bin
+Bootloader binary size 0x5160 bytes. 0x2ea0 bytes (36%) free.
+[3/9] Linking C static library esp-idf/main/libmain.a
+[4/9] No install step for 'bootloader'
+[5/9] Completed 'bootloader'
+[6/9] Generating ld/sections.ld
+[7/9] Linking CXX executable hello_world.elf
+[8/9] Generating binary image from built executable
+esptool.py v4.9.0
+Creating esp32c3 image...
+Merged 1 ELF section
+Successfully created esp32c3 image.
+Generated /home/cyao/Developer/esp-usb/firmware/blink/build/hello_world.bin
+[9/9] cd /home/cyao/Developer/esp-usb/firmware/blink/build/esp-idf/esptool_py && /home/cyao/.espressif/python_env/idf5.4_py3.13_env/bin/python /opt/esp-idf/components/partition_table/check_sizes.py --offset 0x8000 partition --type app /home/cyao/Developer/esp-usb/firmware/blink/build/partition_table/partition-table.bin /home/cyao/Developer/esp-usb/firmware/blink/build/hello_world.bin
+hello_world.bin binary size 0x2caf0 bytes. Smallest app partition is 0x100000 bytes. 0xd3510 bytes (83%) free.

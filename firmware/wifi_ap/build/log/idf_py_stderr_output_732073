@@ -1,0 +1,1649 @@
+[0;33m--- esp-idf-monitor 1.6.2 on /dev/ttyACM0 115200[0m
+[0;33m--- Quit: Ctrl+] | Menu: Ctrl+T | Help: Ctrl+T followed by Ctrl+H[0m
+[0;33m--- 0x420065d8: uart_ll_get_txfifo_len at /opt/esp-idf/components/hal/esp32c3/include/hal/uart_ll.h:406
+---  (inlined by) uart_tx_char at /opt/esp-idf/components/esp_driver_uart/src/uart_vfs.c:190
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[1;31m--- Error: device reports readiness to read but returned no data (device disconnected or multiple access on port?)[0m
+[0;33m--- Waiting for the device to reconnect[0m[0;33m.[0m[0;33m[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[1;31m--- Error: device reports readiness to read but returned no data (device disconnected or multiple access on port?)[0m
+[0;33m--- Waiting for the device to reconnect[0m[0;33m.[0m[0;33m[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[1;31m--- Error: device reports readiness to read but returned no data (device disconnected or multiple access on port?)[0m
+[0;33m--- Waiting for the device to reconnect[0m[0;33m.[0m[0;33m[0m
+[1;31m--- Error: device reports readiness to read but returned no data (device disconnected or multiple access on port?)[0m
+[0;33m--- Waiting for the device to reconnect[0m[0;33m.[0m[0;33m[0m
+[1;31m--- Error: device reports readiness to read but returned no data (device disconnected or multiple access on port?)[0m
+[0;33m--- Waiting for the device to reconnect[0m[0;33m.[0m[0;33m[0m
+[1;31m--- Error: device reports readiness to read but returned no data (device disconnected or multiple access on port?)[0m
+[0;33m--- Waiting for the device to reconnect[0m[0;33m.[0m[0;33m[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[1;31m--- Error: device reports readiness to read but returned no data (device disconnected or multiple access on port?)[0m
+[0;33m--- Waiting for the device to reconnect[0m[0;33m.[0m[0;33m[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[1;31m--- Error: device reports readiness to read but returned no data (device disconnected or multiple access on port?)[0m
+[0;33m--- Waiting for the device to reconnect[0m[0;33m.[0m[0;33m[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[1;31m--- Error: device reports readiness to read but returned no data (device disconnected or multiple access on port?)[0m
+[0;33m--- Waiting for the device to reconnect[0m[0;33m.[0m[0;33m[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[1;31m--- Error: device reports readiness to read but returned no data (device disconnected or multiple access on port?)[0m
+[0;33m--- Waiting for the device to reconnect[0m[0;33m.[0m[0;33m[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[1;31m--- Error: device reports readiness to read but returned no data (device disconnected or multiple access on port?)[0m
+[0;33m--- Waiting for the device to reconnect[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[1;31m--- Error: device reports readiness to read but returned no data (device disconnected or multiple access on port?)[0m
+[0;33m--- Waiting for the device to reconnect[0m[0;33m.[0m[0;33m[0m
+[1;31m--- Error: device reports readiness to read but returned no data (device disconnected or multiple access on port?)[0m
+[0;33m--- Waiting for the device to reconnect[0m[0;33m.[0m[0;33m[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[1;31m--- Error: device reports readiness to read but returned no data (device disconnected or multiple access on port?)[0m
+[0;33m--- Waiting for the device to reconnect[0m[0;33m.[0m[0;33m[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[1;31m--- Error: device reports readiness to read but returned no data (device disconnected or multiple access on port?)[0m
+[0;33m--- Waiting for the device to reconnect[0m[0;33m.[0m[0;33m[0m
+[1;31m--- Error: device reports readiness to read but returned no data (device disconnected or multiple access on port?)[0m
+[0;33m--- Waiting for the device to reconnect[0m[0;33m.[0m[0;33m[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[1;31m--- Error: device reports readiness to read but returned no data (device disconnected or multiple access on port?)[0m
+[0;33m--- Waiting for the device to reconnect[0m[0;33m.[0m[0;33m[0m
+[1;31m--- Error: device reports readiness to read but returned no data (device disconnected or multiple access on port?)[0m
+[0;33m--- Waiting for the device to reconnect[0m[0;33m[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[1;31m--- Error: device reports readiness to read but returned no data (device disconnected or multiple access on port?)[0m
+[0;33m--- Waiting for the device to reconnect[0m[0;33m.[0m[0;33m.[0m[0;33m[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[1;31m--- Error: device reports readiness to read but returned no data (device disconnected or multiple access on port?)[0m
+[0;33m--- Waiting for the device to reconnect[0m[0;33m.[0m[0;33m.[0m[0;33m[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[1;31m--- Error: device reports readiness to read but returned no data (device disconnected or multiple access on port?)[0m
+[0;33m--- Waiting for the device to reconnect[0m[0;33m.[0m[0;33m.[0m[0;33m[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[1;31m--- Error: device reports readiness to read but returned no data (device disconnected or multiple access on port?)[0m
+[0;33m--- Waiting for the device to reconnect[0m[0;33m.[0m[0;33m.[0m[0;33m[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[1;31m--- Error: device reports readiness to read but returned no data (device disconnected or multiple access on port?)[0m
+[0;33m--- Waiting for the device to reconnect[0m[0;33m.[0m[0;33m.[0m[0;33m[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[1;31m--- Error: device reports readiness to read but returned no data (device disconnected or multiple access on port?)[0m
+[0;33m--- Waiting for the device to reconnect[0m[0;33m.[0m[0;33m.[0m[0;33m[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[1;31m--- Error: device reports readiness to read but returned no data (device disconnected or multiple access on port?)[0m
+[0;33m--- Waiting for the device to reconnect[0m[0;33m.[0m[0;33m.[0m[0;33m[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[1;31m--- Error: device reports readiness to read but returned no data (device disconnected or multiple access on port?)[0m
+[0;33m--- Waiting for the device to reconnect[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[1;31m--- Error: device reports readiness to read but returned no data (device disconnected or multiple access on port?)[0m
+[0;33m--- Waiting for the device to reconnect[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[1;31m--- Error: device reports readiness to read but returned no data (device disconnected or multiple access on port?)[0m
+[0;33m--- Waiting for the device to reconnect[0m[0;33m.[0m[0;33m[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[1;31m--- Error: device reports readiness to read but returned no data (device disconnected or multiple access on port?)[0m
+[0;33m--- Waiting for the device to reconnect[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[1;31m--- Error: device reports readiness to read but returned no data (device disconnected or multiple access on port?)[0m
+[0;33m--- Waiting for the device to reconnect[0m[0;33m.[0m[0;33m[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[1;31m--- Error: device reports readiness to read but returned no data (device disconnected or multiple access on port?)[0m
+[0;33m--- Waiting for the device to reconnect[0m[0;33m.[0m[0;33m[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[1;31m--- Error: device reports readiness to read but returned no data (device disconnected or multiple access on port?)[0m
+[0;33m--- Waiting for the device to reconnect[0m[0;33m.[0m[0;33m[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[1;31m--- Error: device reports readiness to read but returned no data (device disconnected or multiple access on port?)[0m
+[0;33m--- Waiting for the device to reconnect[0m[0;33m.[0m[0;33m.[0m[0;33m.[0m[0;33m[0m
+[1;31m--- Error: device reports readiness to read but returned no data (device disconnected or multiple access on port?)[0m
+[0;33m--- Waiting for the device to reconnect[0m[0;33m.[0m[0;33m[0m
+[1;31m--- Error: device reports readiness to read but returned no data (device disconnected or multiple access on port?)[0m
+[0;33m--- Waiting for the device to reconnect[0m[0;33m.[0m[0;33m[0m
+[1;31m--- Error: device reports readiness to read but returned no data (device disconnected or multiple access on port?)[0m
+[0;33m--- Waiting for the device to reconnect[0m[0;33m.[0m[0;33m[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[1;31m--- Error: device reports readiness to read but returned no data (device disconnected or multiple access on port?)[0m
+[0;33m--- Waiting for the device to reconnect[0m[0;33m.[0m[0;33m[0m
+[1;31m--- Error: device reports readiness to read but returned no data (device disconnected or multiple access on port?)[0m
+[0;33m--- Waiting for the device to reconnect[0m[0;33m.[0m[0;33m[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[1;31m--- Error: device reports readiness to read but returned no data (device disconnected or multiple access on port?)[0m
+[0;33m--- Waiting for the device to reconnect[0m[0;33m.[0m[0;33m[0m
+[1;31m--- Error: device reports readiness to read but returned no data (device disconnected or multiple access on port?)[0m
+[0;33m--- Waiting for the device to reconnect[0m[0;33m.[0m[0;33m[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[1;31m--- Error: device reports readiness to read but returned no data (device disconnected or multiple access on port?)[0m
+[0;33m--- Waiting for the device to reconnect[0m[0;33m.[0m[0;33m[0m
+[1;31m--- Error: device reports readiness to read but returned no data (device disconnected or multiple access on port?)[0m
+[0;33m--- Waiting for the device to reconnect[0m[0;33m.[0m[0;33m[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[1;31m--- Error: device reports readiness to read but returned no data (device disconnected or multiple access on port?)[0m
+[0;33m--- Waiting for the device to reconnect[0m[0;33m.[0m[0;33m[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[1;31m--- Error: device reports readiness to read but returned no data (device disconnected or multiple access on port?)[0m
+[0;33m--- Waiting for the device to reconnect[0m[0;33m.[0m[0;33m[0m
+[1;31m--- Error: device reports readiness to read but returned no data (device disconnected or multiple access on port?)[0m
+[0;33m--- Waiting for the device to reconnect[0m[0;33m.[0m[0;33m[0m
+[1;31m--- Error: device reports readiness to read but returned no data (device disconnected or multiple access on port?)[0m
+[0;33m--- Waiting for the device to reconnect[0m[0;33m.[0m[0;33m[0m
+[1;31m--- Error: device reports readiness to read but returned no data (device disconnected or multiple access on port?)[0m
+[0;33m--- Waiting for the device to reconnect[0m[0;33m.[0m[0;33m[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[1;31m--- Error: device reports readiness to read but returned no data (device disconnected or multiple access on port?)[0m
+[0;33m--- Waiting for the device to reconnect[0m[0;33m.[0m[0;33m[0m
+[1;31m--- Error: device reports readiness to read but returned no data (device disconnected or multiple access on port?)[0m
+[0;33m--- Waiting for the device to reconnect[0m[0;33m.[0m[0;33m[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[1;31m--- Error: device reports readiness to read but returned no data (device disconnected or multiple access on port?)[0m
+[0;33m--- Waiting for the device to reconnect[0m[0;33m.[0m[0;33m[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[1;31m--- Error: device reports readiness to read but returned no data (device disconnected or multiple access on port?)[0m
+[0;33m--- Waiting for the device to reconnect[0m[0;33m.[0m[0;33m[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[1;31m--- Error: device reports readiness to read but returned no data (device disconnected or multiple access on port?)[0m
+[0;33m--- Waiting for the device to reconnect[0m[0;33m.[0m[0;33m[0m
+[0;33m--- Warning: Writing to serial is timing out. Please make sure that your application supports an interactive console and that you have picked the correct console for serial communication.[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0;33m--- 0x40048b82: software_reset in ROM
+[0m
+[0m

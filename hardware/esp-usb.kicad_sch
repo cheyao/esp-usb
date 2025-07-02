@@ -5742,7 +5742,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C2689695"
+		(property "LCSC Part #" "C2764561"
 			(at 124.46 92.71 0)
 			(effects
 				(font
@@ -5912,7 +5912,8 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 93.98 87.63 180)
+		(at 93.98 87.63 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9143,7 +9144,8 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 93.98 81.28 180)
+		(at 93.98 81.28 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)

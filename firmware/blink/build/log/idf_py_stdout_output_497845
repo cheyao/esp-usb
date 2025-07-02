@@ -1,0 +1,154 @@
+[0/1] Re-running CMake...
+-- git rev-parse returned 'fatal: detected dubious ownership in repository at '/opt/esp-idf'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /opt/esp-idf'
+-- Building ESP-IDF components for target esp32c3
+-- Project sdkconfig file /home/cyao/Developer/esp-usb/firmware/blink/sdkconfig
+-- Adding linker script /opt/esp-idf/components/riscv/ld/rom.api.ld
+-- App "hello_world" version: bd08588-dirty
+-- Adding linker script /home/cyao/Developer/esp-usb/firmware/blink/build/esp-idf/esp_system/ld/memory.ld
+-- Adding linker script /home/cyao/Developer/esp-usb/firmware/blink/build/esp-idf/esp_system/ld/sections.ld.in
+-- Adding linker script /opt/esp-idf/components/esp_rom/esp32c3/ld/esp32c3.rom.ld
+-- Adding linker script /opt/esp-idf/components/esp_rom/esp32c3/ld/esp32c3.rom.api.ld
+-- Adding linker script /opt/esp-idf/components/esp_rom/esp32c3/ld/esp32c3.rom.bt_funcs.ld
+-- Adding linker script /opt/esp-idf/components/esp_rom/esp32c3/ld/esp32c3.rom.libgcc.ld
+-- Adding linker script /opt/esp-idf/components/esp_rom/esp32c3/ld/esp32c3.rom.version.ld
+-- Adding linker script /opt/esp-idf/components/esp_rom/esp32c3/ld/esp32c3.rom.eco3.ld
+-- Adding linker script /opt/esp-idf/components/esp_rom/esp32c3/ld/esp32c3.rom.eco3_bt_funcs.ld
+-- Adding linker script /opt/esp-idf/components/esp_rom/esp32c3/ld/esp32c3.rom.newlib.ld
+-- Adding linker script /opt/esp-idf/components/soc/esp32c3/ld/esp32c3.peripherals.ld
+-- Components: app_trace app_update bootloader bootloader_support bt cmock console cxx driver efuse esp-tls esp_adc esp_app_format esp_bootloader_format esp_coex esp_common esp_driver_ana_cmpr esp_driver_cam esp_driver_dac esp_driver_gpio esp_driver_gptimer esp_driver_i2c esp_driver_i2s esp_driver_isp esp_driver_jpeg esp_driver_ledc esp_driver_mcpwm esp_driver_parlio esp_driver_pcnt esp_driver_ppa esp_driver_rmt esp_driver_sdio esp_driver_sdm esp_driver_sdmmc esp_driver_sdspi esp_driver_spi esp_driver_touch_sens esp_driver_tsens esp_driver_uart esp_driver_usb_serial_jtag esp_eth esp_event esp_gdbstub esp_hid esp_http_client esp_http_server esp_https_ota esp_https_server esp_hw_support esp_lcd esp_local_ctrl esp_mm esp_netif esp_netif_stack esp_partition esp_phy esp_pm esp_psram esp_ringbuf esp_rom esp_security esp_system esp_timer esp_vfs_console esp_wifi espcoredump esptool_py fatfs freertos hal heap http_parser idf_test ieee802154 json log lwip main mbedtls mqtt newlib nvs_flash nvs_sec_provider openthread partition_table protobuf-c protocomm pthread riscv rt sdmmc soc spi_flash spiffs tcp_transport ulp unity usb vfs wear_levelling wifi_provisioning wpa_supplicant
+-- Component paths: /opt/esp-idf/components/app_trace /opt/esp-idf/components/app_update /opt/esp-idf/components/bootloader /opt/esp-idf/components/bootloader_support /opt/esp-idf/components/bt /opt/esp-idf/components/cmock /opt/esp-idf/components/console /opt/esp-idf/components/cxx /opt/esp-idf/components/driver /opt/esp-idf/components/efuse /opt/esp-idf/components/esp-tls /opt/esp-idf/components/esp_adc /opt/esp-idf/components/esp_app_format /opt/esp-idf/components/esp_bootloader_format /opt/esp-idf/components/esp_coex /opt/esp-idf/components/esp_common /opt/esp-idf/components/esp_driver_ana_cmpr /opt/esp-idf/components/esp_driver_cam /opt/esp-idf/components/esp_driver_dac /opt/esp-idf/components/esp_driver_gpio /opt/esp-idf/components/esp_driver_gptimer /opt/esp-idf/components/esp_driver_i2c /opt/esp-idf/components/esp_driver_i2s /opt/esp-idf/components/esp_driver_isp /opt/esp-idf/components/esp_driver_jpeg /opt/esp-idf/components/esp_driver_ledc /opt/esp-idf/components/esp_driver_mcpwm /opt/esp-idf/components/esp_driver_parlio /opt/esp-idf/components/esp_driver_pcnt /opt/esp-idf/components/esp_driver_ppa /opt/esp-idf/components/esp_driver_rmt /opt/esp-idf/components/esp_driver_sdio /opt/esp-idf/components/esp_driver_sdm /opt/esp-idf/components/esp_driver_sdmmc /opt/esp-idf/components/esp_driver_sdspi /opt/esp-idf/components/esp_driver_spi /opt/esp-idf/components/esp_driver_touch_sens /opt/esp-idf/components/esp_driver_tsens /opt/esp-idf/components/esp_driver_uart /opt/esp-idf/components/esp_driver_usb_serial_jtag /opt/esp-idf/components/esp_eth /opt/esp-idf/components/esp_event /opt/esp-idf/components/esp_gdbstub /opt/esp-idf/components/esp_hid /opt/esp-idf/components/esp_http_client /opt/esp-idf/components/esp_http_server /opt/esp-idf/components/esp_https_ota /opt/esp-idf/components/esp_https_server /opt/esp-idf/components/esp_hw_support /opt/esp-idf/components/esp_lcd /opt/esp-idf/components/esp_local_ctrl /opt/esp-idf/components/esp_mm /opt/esp-idf/components/esp_netif /opt/esp-idf/components/esp_netif_stack /opt/esp-idf/components/esp_partition /opt/esp-idf/components/esp_phy /opt/esp-idf/components/esp_pm /opt/esp-idf/components/esp_psram /opt/esp-idf/components/esp_ringbuf /opt/esp-idf/components/esp_rom /opt/esp-idf/components/esp_security /opt/esp-idf/components/esp_system /opt/esp-idf/components/esp_timer /opt/esp-idf/components/esp_vfs_console /opt/esp-idf/components/esp_wifi /opt/esp-idf/components/espcoredump /opt/esp-idf/components/esptool_py /opt/esp-idf/components/fatfs /opt/esp-idf/components/freertos /opt/esp-idf/components/hal /opt/esp-idf/components/heap /opt/esp-idf/components/http_parser /opt/esp-idf/components/idf_test /opt/esp-idf/components/ieee802154 /opt/esp-idf/components/json /opt/esp-idf/components/log /opt/esp-idf/components/lwip /home/cyao/Developer/esp-usb/firmware/blink/main /opt/esp-idf/components/mbedtls /opt/esp-idf/components/mqtt /opt/esp-idf/components/newlib /opt/esp-idf/components/nvs_flash /opt/esp-idf/components/nvs_sec_provider /opt/esp-idf/components/openthread /opt/esp-idf/components/partition_table /opt/esp-idf/components/protobuf-c /opt/esp-idf/components/protocomm /opt/esp-idf/components/pthread /opt/esp-idf/components/riscv /opt/esp-idf/components/rt /opt/esp-idf/components/sdmmc /opt/esp-idf/components/soc /opt/esp-idf/components/spi_flash /opt/esp-idf/components/spiffs /opt/esp-idf/components/tcp_transport /opt/esp-idf/components/ulp /opt/esp-idf/components/unity /opt/esp-idf/components/usb /opt/esp-idf/components/vfs /opt/esp-idf/components/wear_levelling /opt/esp-idf/components/wifi_provisioning /opt/esp-idf/components/wpa_supplicant
+-- Configuring done (1.8s)
+-- Generating done (0.3s)
+-- Build files have been written to: /home/cyao/Developer/esp-usb/firmware/blink/build
+[1/17] Linking C static library esp-idf/nvs_sec_provider/libnvs_sec_provider.a
+[2/17] Linking C static library esp-idf/rt/librt.a
+[3/17] Linking C static library esp-idf/mqtt/libmqtt.a
+[4/17] Linking C static library esp-idf/fatfs/libfatfs.a
+[5/17] Linking C static library esp-idf/wifi_provisioning/libwifi_provisioning.a
+[6/17] Linking C static library esp-idf/spiffs/libspiffs.a
+[7/17] Building C object esp-idf/main/CMakeFiles/__idf_main.dir/blink_main.c.obj
+[8/17] Linking C static library esp-idf/main/libmain.a
+[9/17] Performing build step for 'bootloader'
+[1/101] Building C object esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_crc.c.obj
+[2/101] Building C object esp-idf/log/CMakeFiles/__idf_log.dir/src/noos/log_timestamp.c.obj
+[3/101] Building C object esp-idf/log/CMakeFiles/__idf_log.dir/src/log_timestamp_common.c.obj
+[4/101] Building C object esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_spiflash.c.obj
+[5/101] Building C object esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_gpio.c.obj
+[6/101] Building C object esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_efuse.c.obj
+[7/101] Building C object esp-idf/log/CMakeFiles/__idf_log.dir/src/noos/log_lock.c.obj
+[8/101] Linking C static library esp-idf/log/liblog.a
+[9/101] Building C object esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_systimer.c.obj
+[10/101] Building C object esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_uart.c.obj
+[11/101] Building C object esp-idf/esp_common/CMakeFiles/__idf_esp_common.dir/src/esp_err_to_name.c.obj
+[12/101] Building C object esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_sys.c.obj
+[13/101] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/esp_memory_utils.c.obj
+[14/101] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32c3/esp_cpu_intr.c.obj
+[15/101] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32c3/cpu_region_protect.c.obj
+[16/101] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/cpu.c.obj
+[17/101] Building C object esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_print.c.obj
+[18/101] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32c3/chip_info.c.obj
+[19/101] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32c3/rtc_clk_init.c.obj
+[20/101] Linking C static library esp-idf/esp_rom/libesp_rom.a
+[21/101] Building C object esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/esp_err.c.obj
+[22/101] Building C object esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32c3/esp_efuse_fields.c.obj
+[23/101] Building C object esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32c3/esp_efuse_table.c.obj
+[24/101] Linking C static library esp-idf/esp_common/libesp_common.a
+[25/101] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32c3/rtc_init.c.obj
+[26/101] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32c3/rtc_sleep.c.obj
+[27/101] Building C object esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32c3/esp_efuse_rtc_calib.c.obj
+[28/101] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32c3/rtc_time.c.obj
+[29/101] Building C object esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32c3/esp_efuse_utility.c.obj
+[30/101] Building C object esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/esp_efuse_fields.c.obj
+[31/101] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32c3/rtc_clk.c.obj
+[32/101] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_mem.c.obj
+[33/101] Building C object esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/esp_efuse_api.c.obj
+[34/101] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_efuse.c.obj
+[35/101] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_clock_init.c.obj
+[36/101] Linking C static library esp-idf/esp_hw_support/libesp_hw_support.a
+[37/101] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_random.c.obj
+[38/101] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_common.c.obj
+[39/101] Linking C static library esp-idf/esp_system/libesp_system.a
+[40/101] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_common_loader.c.obj
+[41/101] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/secure_boot.c.obj
+[42/101] Building C object esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/efuse_controller/keys/with_key_purposes/esp_efuse_api_key.c.obj
+[43/101] Building C object esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/esp_efuse_utility.c.obj
+[44/101] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_random_esp32c3.c.obj
+[45/101] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/flash_encrypt.c.obj
+[46/101] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_clock_loader.c.obj
+[47/101] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/flash_partitions.c.obj
+[48/101] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/bootloader_flash/src/bootloader_flash_config_esp32c3.c.obj
+[49/101] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_console_loader.c.obj
+[50/101] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_init.c.obj
+[51/101] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/bootloader_flash/src/flash_qio_mode.c.obj
+[52/101] Linking C static library esp-idf/efuse/libefuse.a
+[53/101] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/esp32c3/bootloader_soc.c.obj
+[54/101] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_console.c.obj
+[55/101] Building C object esp-idf/esp_bootloader_format/CMakeFiles/__idf_esp_bootloader_format.dir/esp_bootloader_desc.c.obj
+[56/101] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_panic.c.obj
+[57/101] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/esp32c3/bootloader_sha.c.obj
+[58/101] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/esp32c3/bootloader_esp32c3.c.obj
+[59/101] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/bootloader_flash/src/bootloader_flash.c.obj
+[60/101] Building C object esp-idf/hal/CMakeFiles/__idf_hal.dir/esp32c3/efuse_hal.c.obj
+[61/101] Building C object esp-idf/hal/CMakeFiles/__idf_hal.dir/efuse_hal.c.obj
+[62/101] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_utility.c.obj
+[63/101] Building C object esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/spi_flash_wrap.c.obj
+[64/101] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32c3/interrupts.c.obj
+[65/101] Building C object esp-idf/hal/CMakeFiles/__idf_hal.dir/hal_utils.c.obj
+[66/101] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32c3/gpio_periph.c.obj
+[67/101] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/lldesc.c.obj
+[68/101] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32c3/dedic_gpio_periph.c.obj
+[69/101] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/esp_image_format.c.obj
+[70/101] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/dport_access_common.c.obj
+[71/101] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32c3/adc_periph.c.obj
+[72/101] Building C object esp-idf/hal/CMakeFiles/__idf_hal.dir/wdt_hal_iram.c.obj
+[73/101] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32c3/gdma_periph.c.obj
+[74/101] Building C object esp-idf/hal/CMakeFiles/__idf_hal.dir/mmu_hal.c.obj
+[75/101] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32c3/uart_periph.c.obj
+[76/101] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32c3/sdm_periph.c.obj
+[77/101] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32c3/ledc_periph.c.obj
+[78/101] Building C object esp-idf/hal/CMakeFiles/__idf_hal.dir/cache_hal.c.obj
+[79/101] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32c3/temperature_sensor_periph.c.obj
+[80/101] Linking C static library esp-idf/bootloader_support/libbootloader_support.a
+[81/101] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32c3/spi_periph.c.obj
+[82/101] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32c3/rmt_periph.c.obj
+[83/101] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32c3/i2c_periph.c.obj
+[84/101] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32c3/i2s_periph.c.obj
+[85/101] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32c3/twai_periph.c.obj
+[86/101] Generating project_elf_src_esp32c3.c
+[87/101] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32c3/timer_periph.c.obj
+[88/101] Linking C static library esp-idf/esp_bootloader_format/libesp_bootloader_format.a
+[89/101] Building C object CMakeFiles/bootloader.elf.dir/project_elf_src_esp32c3.c.obj
+[90/101] Linking C static library esp-idf/spi_flash/libspi_flash.a
+[91/101] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32c3/mpi_periph.c.obj
+[92/101] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32c3/wdt_periph.c.obj
+[93/101] Linking C static library esp-idf/hal/libhal.a
+[94/101] Building C object esp-idf/main/CMakeFiles/__idf_main.dir/bootloader_start.c.obj
+[95/101] Building C object esp-idf/micro-ecc/CMakeFiles/__idf_micro-ecc.dir/uECC_verify_antifault.c.obj
+[96/101] Linking C static library esp-idf/micro-ecc/libmicro-ecc.a
+[97/101] Linking C static library esp-idf/soc/libsoc.a
+[98/101] Linking C static library esp-idf/main/libmain.a
+[99/101] Linking C executable bootloader.elf
+[100/101] Generating binary image from built executable
+esptool.py v4.9.0
+Creating esp32c3 image...
+Merged 2 ELF sections
+Successfully created esp32c3 image.
+Generated /home/cyao/Developer/esp-usb/firmware/blink/build/bootloader/bootloader.bin
+[101/101] cd /home/cyao/Developer/esp-usb/firmware/blink/build/bootloader/esp-idf/esptool_py && /home/cyao/.espressif/python_env/idf5.4_py3.13_env/bin/python /opt/esp-idf/components/partition_table/check_sizes.py --offset 0x8000 bootloader 0x0 /home/cyao/Developer/esp-usb/firmware/blink/build/bootloader/bootloader.bin
+Bootloader binary size 0x5160 bytes. 0x2ea0 bytes (36%) free.
+[10/17] No install step for 'bootloader'
+[11/17] Completed 'bootloader'
+[12/17] Generating ld/sections.ld
+[13/17] Building C object CMakeFiles/hello_world.elf.dir/project_elf_src_esp32c3.c.obj
+[14/17] Linking CXX executable hello_world.elf
+[15/17] Generating binary image from built executable
+esptool.py v4.9.0
+Creating esp32c3 image...
+Merged 1 ELF section
+Successfully created esp32c3 image.
+Generated /home/cyao/Developer/esp-usb/firmware/blink/build/hello_world.bin
+[16/17] cd /home/cyao/Developer/esp-usb/firmware/blink/build/esp-idf/esptool_py && /home/cyao/.espressif/python_env/idf5.4_py3.13_env/bin/python /opt/esp-idf/components/partition_table/check_sizes.py --offset 0x8000 partition --type app /home/cyao/Developer/esp-usb/firmware/blink/build/partition_table/partition-table.bin /home/cyao/Developer/esp-usb/firmware/blink/build/hello_world.bin
+hello_world.bin binary size 0x2bc80 bytes. Smallest app partition is 0x100000 bytes. 0xd4380 bytes (83%) free.

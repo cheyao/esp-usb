@@ -1,0 +1,2 @@
+source /home/cyao/Developer/esp-usb/firmware/blink/build/bootloader/gdbinit/symbols
+source /home/cyao/Developer/esp-usb/firmware/blink/build/bootloader/gdbinit/connect
