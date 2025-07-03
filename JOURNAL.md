@@ -7,7 +7,7 @@ created_at: "2024-05-17"
 
 # ESP-USB - The esp32 dev board that goes straight into your USB port
 
-TOTAL TIME: ~29.5h (Prob more w/ the time i spent at school reading docs...)
+TOTAL TIME: ~36.5h (Prob more w/ the time i spent at school reading docs...)
 
 ## 17/05/25 - Making v1 of the board!
 
@@ -129,3 +129,12 @@ Okay ig I'm done? Time to submit!!!
 Beefed up the readme :dinothumbsup: :p
 
 - Time spent: 1h
+
+-----------------
+
+## 03/07/25
+Reflowed ths PCB (multiple times sob)! And posted on reddit :)
+
+https://www.reddit.com/r/PrintedCircuitBoard/comments/1lq77ep/tiny_usb_esp32_wifi_board_came_back_looking_great/
+
+- 7h
