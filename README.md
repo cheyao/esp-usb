@@ -1,6 +1,6 @@
 # ESP USB - ESP32 in your pockets
 
-![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/7454b2ca2981f1f1818077ea4e6c75ab948e7259_out.jpg)
+![](assets/top.jpg)
 
 ## Description
 
@@ -11,7 +11,7 @@ The tiny ESP32 development board that you can plug directly into your USB port.
 - It is routed only using 2 layers, thus lowering per unit cost.
 - It has a onboard 600mA voltage regulator
 
-![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/0a95e10848faf162e861499aae798dcaf59fbabb_image.png)
+![](assets/routing.png)
 
 You can directly plug it into your USB port and program it, using your favourite IDE.
 
@@ -24,7 +24,7 @@ Features:
 - 2 user leds - Easy debugging
 - Breadboard pinout
 
-![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/d94dfb82993dd991c6b07bc3e5494b0e028188f9_image.png)
+![](assets/schematic.png)
 
 ## Notes
 
